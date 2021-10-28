@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asrarahmed11
 - 👀 I’m interested in Football.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me email: asrar.ahmedd11@gmail.com
+- 📫 How to reach me: asrar.ahmedd11@gmail.com
 
 <!---
 asrarahmed11/asrarahmed11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
